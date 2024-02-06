@@ -204,3 +204,4 @@ dependencies:
       - werkzeug==2.0.3
       - widgetsnbextension==3.6.6
       - zipp==3.6.0
+      - warmup-scheduler
